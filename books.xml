@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<books name="My books">
+	<book bookid="1" pubdate="03/01/2002">
+		<title>Java Web Services</title>
+		<authors>
+			<author>David A. Chappel</author>
+			<author>Tyler Jewell</author>
+		</authors>
+		<subject>Web Services</subject>
+	</book>
+	<book bookid="2" pubdate="01/01/2000">
+		<title>Java Message Service</title>
+		<authors>
+			<author>David A. Chappel</author>
+		</authors>
+		<subject>Java Message Service (JMS)</subject>
+	</book>
+	<book bookid="3" pubdate="03/01/2002">
+		<title>Professional ebXML Foundations</title>
+		<authors>
+			<author>Colleen Evans</author>
+			<author>David A. Chappel</author>
+			<author>Jean-Jacques Dubray</author>
+			<author>Duane Nickull</author>
+			<author>Pim van der Eijk</author>
+			<author>Vivek Chopra</author>
+			<author>Betty Harvey</author>
+			<author>Marcel Noordzij</author>
+			<author>Jan Vegt</author>
+			<author>Tim McGrath</author>
+			<author>Bruce Peat</author>
+		</authors>
+		<subject>ebXML</subject>
+	</book>
+	<book bookid="4" pubdate="01/03/1997">
+		<title>Beginning Visual C++ 6 Database Programming</title>
+		<authors>
+			<author>John Connell</author>
+			<author>Minollo</author>
+		</authors>
+		<subject>Database</subject>
+	</book>
+	<book bookid="5" pubdate="11/10/2000">
+		<title>Beginner&apos;s Guide to Access 2.0</title>
+		<authors>
+			<author>Wrox Author Team</author>
+			<author>minollo@minollo.com</author>
+		</authors>
+		<subject class="1">Access</subject>
+	</book>
+	<book bookid="6" pubdate="11/12/1999">
+		<title>Beginning Java 2</title>
+		<authors>
+			<author>Ivor Horton</author>
+		</authors>
+		<subject>Java</subject>
+	</book>
+	<book bookid="7" pubdate="02/07/1998">
+		<title>Beginning ATL COM Programming</title>
+		<authors>
+			<author>Richard Grimes</author>
+			<author>George Reilly</author>
+			<author>Alex Stockton</author>
+			<author>Julian Templeman</author>
+		</authors>
+		<subject>C++</subject>
+	</book>
+	<book bookid="8" pubdate="10/01/1999">
+		<title>XML Applications</title>
+		<authors>
+			<author>Frank Boumphrey</author>
+			<author>Olivia di Renzo</author>
+			<author>Jon Duckett</author>
+			<author>Joe Graf</author>
+			<author>Dave Hollander</author>
+			<author>Paul Houle</author>
+			<author>Trevor Jenkins</author>
+			<author>Peter Jones</author>
+			<author>Adrian Kingsley-Hughes</author>
+			<author>Kathie Kingsley-Hughes</author>
+			<author>Craig McQueen</author>
+			<author>Stephen Mohr</author>
+		</authors>
+		<subject>XML</subject>
+	</book>
+	<book bookid="9" pubdate="11/12/1999">
+		<title>Instant UNIX</title>
+		<authors>
+			<author>Andrew Evans</author>
+			<author>Neil Matthew</author>
+			<author>Richard Stones</author>
+		</authors>
+		<subject>GNU/Linux</subject>
+	</book>
+	<book bookid="11" pubdate="11/12/1999">
+		<title>Instant UNIX</title>
+		<authors>
+			<author>Andrew Evans2</author>
+			<author>Neil Matthew2</author>
+			<author>Richard Stones2</author>
+		</authors>
+		<subject>GNU/Linux</subject>
+	</book>
+</books>
